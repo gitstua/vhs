@@ -10,4 +10,5 @@ Run `vhs example.tape`
 
 ## Demo 2
 - [Install Copilot in the CLI](https://github.com/github/gh-copilot)
+- Complete authentication
 - Run `vhs copilot-in-the-CLI.tape`
