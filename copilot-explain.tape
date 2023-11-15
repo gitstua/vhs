@@ -5,5 +5,7 @@ Sleep 500ms
 Type "explain "
 Type '"ls -la"'
 Enter
-Sleep 4s
+Sleep 10s
+Type "# thats the demo"
+Enter
 

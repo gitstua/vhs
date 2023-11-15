@@ -1,17 +1,10 @@
 Set Shell zsh
+Type "echo Quick demo of vhs running a script"
+Enter
 Sleep 5s
-Type "d"
-Sleep 3s
-Type "f"
+Type "uptime"
 Enter
-Sleep 8.5s
-Type "top"
-Enter
-Sleep 11s
-Type "q"
+Type "seq 1 15 | xargs -L1 echo"
 Sleep 2s
-Type "r"
-Sleep 500ms
-Backspace
-Sleep 500ms
-
+Enter
+Sleep 2s
