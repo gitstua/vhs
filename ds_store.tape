@@ -2,9 +2,9 @@ Set Shell zsh
 Sleep 1s
 Type "gh copilot suggest"
 Enter
-Sleep 1s
+Sleep 2s
 Enter
-Sleep 2.5s
+Sleep 3s
 Type "find all .DS_Store files"
 Enter
 Sleep 4s
