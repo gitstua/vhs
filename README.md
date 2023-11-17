@@ -33,3 +33,4 @@ Run `vhs example.tape`
 
 ![](https://imgs.xkcd.com/comics/tar.png)
 1. Run `vhs tar.tape`
+![tar](./img/tar.gif)

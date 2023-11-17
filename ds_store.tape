@@ -3,14 +3,9 @@ Sleep 1s
 Type "gh copilot suggest"
 Enter
 Sleep 1s
-Type "gene"
-Sleep 1s
 Enter
 Sleep 2.5s
-Type "find all "
-Sleep 500ms
-Type ".DS_Store files"
-Sleep 500ms
+Type "find all .DS_Store files"
 Enter
 Sleep 4s
 Down 2
