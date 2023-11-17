@@ -29,7 +29,7 @@ Run `vhs example.tape`
 ![ds_store](./img/ds_store.gif)
 
 ## Demo 5 - Copilot in the CLI suggest complex tar
-### The challenge
+### The challenge (an "impossible mission")
 ![](https://imgs.xkcd.com/comics/tar.png)
 
 ### The solution
