@@ -28,3 +28,8 @@ Run `vhs example.tape`
 1. Run `vhs ds_store.tape`
 ![ds_store](./img/ds_store.gif)
 
+## Demo 5
+>`gh copilot suggest a tar command to create a tarball of all files in a directory where the second character in the filename is "a"`
+
+![](https://imgs.xkcd.com/comics/tar.png)
+1. Run `vhs tar.tape`
