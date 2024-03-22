@@ -3,6 +3,8 @@ Demo of VHS scripting to playback a set of commands and record the results as a 
 
 All except the first demo use [GitHub Copilot in the CLI](https://github.blog/changelog/2023-11-08-github-copilot-in-the-cli-now-in-public-beta/) to generate the commands.
 
+⚠️ These samples were build prior to the [General Availability of Copilot in the CLI](https://github.blog/changelog/2024-03-21-github-copilot-general-availability-in-the-cli/) so please verify before use
+
 ## Usage
 1. Install [VHS](https://github.com/charmbracelet/vhs/tree/main#readme)
 2. Run `vhs record -o demo.gif`
